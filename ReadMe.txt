@@ -1,1 +1,0 @@
-This Java Practice Program has two classes mainly. There is a student class which has attributes like name, score and id. Then there is a Main class which will add new students. This program uses Maps, ArrayList, Comparable and Comparator etc. 
